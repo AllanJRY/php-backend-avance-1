@@ -2,42 +2,42 @@
 Dans ce premier exercice, il est demandé de définir des objets en php et d'afficher les informations des instances via des méthodes.
 
 ### Tout d'abord commencez par définir 4 classes, composées des attributs indiqués :
-- [ ] User
+- [x] User
 ```
 - Un nom
 - Un prénom
 - Un email
 ```
-- [ ] Article
+- [x] Article
 ```
 - Un titre
 - Un sous-titre
 - Un auteur ( Est un User )
 - Un contenu 
 ```
-- [ ] Category
+- [x] Category
 ```
 - Un nom
 - Une liste de produits (Liste d'object Product)
 ```
-- [ ] Product
+- [x] Product
 ```
 - Un libellé
 - Une description
 - Un prix
 ```
 
-- [ ] Pensez bien à mettre vos attributs en privés et générer vos Getters et Setters
+- [x] Pensez bien à mettre vos attributs en privés et générer vos Getters et Setters
 
 ### Dans une page ou dans des pages différentes, affichez les informations de vos objets.
 
-- [ ] Créer une instance d'un User et afficher ses informations.
-- [ ] Créer une instance d'un Article en utilisant le User créé juste avant comme auteur et afficher ses informations.
-- [ ] Créer plusieurs instances de produits.
-- [ ] Créer une instance de Category et lui ajouter les produits créés plus tôt.
-- [ ] Afficher les informations de la catégorie ainsi que ses produits.
-- [ ] Ajoutez une méthode dans la classe Category pour afficher le prix total de ses produits.
-- [ ] Ajoutez une méthode dans la classe Category pour afficher le nom du produit qui coûte le plus cher.
+- [x] Créer une instance d'un User et afficher ses informations.
+- [x] Créer une instance d'un Article en utilisant le User créé juste avant comme auteur et afficher ses informations.
+- [x] Créer plusieurs instances de produits.
+- [x] Créer une instance de Category et lui ajouter les produits créés plus tôt.
+- [x] Afficher les informations de la catégorie ainsi que ses produits.
+- [x] Ajoutez une méthode dans la classe Category pour afficher le prix total de ses produits.
+- [x] Ajoutez une méthode dans la classe Category pour afficher le nom du produit qui coûte le plus cher.
 
 ## Exercice 2 - Classe abstraite, héritage et polymorphisme en PHP
 
