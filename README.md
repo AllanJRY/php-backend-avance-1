@@ -57,5 +57,11 @@ Pour vous aider :
 Le registre appartient à un hôpital, il contient une liste de rendez-vous. Les rendez-vous concernent un patient et est réalisé par un médecin.
 Pour aller plus loin vous pouvez aussi faire en sorte que sur le rendez-vous la maladie du patient soit notée ainsi que les médicaments prescrits.
 
+Votre application doit contenir :
+- [ ] Au moins une classe contenant une autre classe (Comme le User dans l'Article de L'exercice 1)
+- [ ] Au moins une classe contenant une liste d'une autre classe (Comme les Products dans la Category de l'exercice 1)
+- [ ] Au moins une classe abstraite
+- [ ] Au moins une classe un héritage
+- [ ] Au moins une utilisation du polymorphisme
 
 
