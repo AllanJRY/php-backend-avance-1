@@ -43,11 +43,11 @@ Dans ce premier exercice, il est demandé de définir des objets en php et d'aff
 
 Dans cet exercice, vous allez utiliser l'héritage pour partager des propriétés identiques entre plusieurs classes.
 
-- [ ] Définir une classe abstraite nommé Animal, ajoutez y des attributs que les animaux partages entre eux.
-- [ ] Ajoutez des méthodes à votre classe abstraite Animal et réécrire la méthode __toString() 
-- [ ] Définir des classes d'animaux (Chat, Chien etc... ). Ces classes doivent hériter de la classe Animal.
-- [ ] Utiliser le polymorphisme pour réécrire les méthodes de votre classe Animal dans vos classes enfant.
-- [ ] Dans une page, créer des instances de vos classes et afficher leurs informations.
+- [x] Définir une classe abstraite nommé Animal, ajoutez y des attributs que les animaux partages entre eux.
+- [x] Ajoutez des méthodes à votre classe abstraite Animal et réécrire la méthode __toString() 
+- [x] Définir des classes d'animaux (Chat, Chien etc... ). Ces classes doivent hériter de la classe Animal.
+- [x] Utiliser le polymorphisme pour réécrire les méthodes de votre classe Animal dans vos classes enfant.
+- [x] Dans une page, créer des instances de vos classes et afficher leurs informations.
 
 ## Exercice 3 - Registre médical
 
